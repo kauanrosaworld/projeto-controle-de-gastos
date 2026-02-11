@@ -13,6 +13,7 @@ MySQL
 
 HTML, CSS e JS puro
 
+```
 projeto-controle-de-gastos/
 ├─ backend/
 │  ├─ index.js
@@ -26,6 +27,8 @@ projeto-controle-de-gastos/
 │  └─ script.js
 └─ db/
    └─ create_table.sql    # script para criar banco e tabela
+```
+
 
 
 ⚙️ Configuração
