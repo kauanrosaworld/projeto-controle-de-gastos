@@ -13,6 +13,7 @@ MySQL
 
 HTML, CSS e JS puro
 
+📁 Estrutura do projeto
 ```
 projeto-controle-de-gastos/
 ├─ backend/
