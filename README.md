@@ -29,7 +29,7 @@ projeto-controle-de-gastos/
 │   └─ script.js
 │
 └─ db/
-    └─ create_table.sql     ← script para criar banco e tabela
+    └─ create_table.sql    ← script para criar banco e tabela
 
 ⚙️ Configuração
 
