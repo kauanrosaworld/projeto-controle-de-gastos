@@ -13,23 +13,20 @@ MySQL
 
 HTML, CSS e JS puro
 
-📁 Estrutura do projeto
 projeto-controle-de-gastos/
-│
 ├─ backend/
-│   ├─ index.js
-│   ├─ package.json
-│   ├─ package-lock.json
-│   ├─ meuBanco.env         ← suas credenciais locais (não subir no Git)
-│   └─ .env.example         ← modelo pro Git, sem senha real
-│
+│  ├─ index.js
+│  ├─ package.json
+│  ├─ package-lock.json
+│  ├─ meuBanco.env        # suas credenciais locais (não subir no Git)
+│  └─ .env.example        # modelo pro Git, sem senha real
 ├─ frontend/
-│   ├─ index.html
-│   ├─ style.css
-│   └─ script.js
-│
+│  ├─ index.html
+│  ├─ style.css
+│  └─ script.js
 └─ db/
-    └─ create_table.sql    ← script para criar banco e tabela
+   └─ create_table.sql    # script para criar banco e tabela
+
 
 ⚙️ Configuração
 
