@@ -1,0 +1,13 @@
+# Dependências do Node
+node_modules/
+
+# Arquivos de ambiente (senhas e dados locais)
+.env
+meuBanco.env
+
+# Logs
+*.log
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
